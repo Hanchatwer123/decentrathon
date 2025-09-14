@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/geo_locations_astana_hackathon.csv filter=lfs diff=lfs merge=lfs -text
